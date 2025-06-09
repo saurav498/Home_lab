@@ -27,3 +27,5 @@
 5. Run `vagrant up`
 6. Connect to VM with `vagrant ssh`
 
+## Vprofile Application for testing your setup
+
